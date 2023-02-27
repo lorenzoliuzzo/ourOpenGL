@@ -1,1 +1,1 @@
-# myOpenGL
+# ourOpenGL
