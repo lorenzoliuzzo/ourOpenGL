@@ -1,0 +1,7 @@
+/home/lorenzo/codes/OpenGL/ext/imgui/build/CMakeFiles/ImGui.dir
+/home/lorenzo/codes/OpenGL/ext/imgui/build/CMakeFiles/edit_cache.dir
+/home/lorenzo/codes/OpenGL/ext/imgui/build/CMakeFiles/rebuild_cache.dir
+/home/lorenzo/codes/OpenGL/ext/imgui/build/CMakeFiles/list_install_components.dir
+/home/lorenzo/codes/OpenGL/ext/imgui/build/CMakeFiles/install.dir
+/home/lorenzo/codes/OpenGL/ext/imgui/build/CMakeFiles/install/local.dir
+/home/lorenzo/codes/OpenGL/ext/imgui/build/CMakeFiles/install/strip.dir
